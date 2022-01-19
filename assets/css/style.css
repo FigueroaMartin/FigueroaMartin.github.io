@@ -1,0 +1,69 @@
+body{background-color: black !important;
+    font-family: 'Roboto', sans-serif !important;
+color: seashell;}
+
+h1{text-align-last: center;
+color: seashell;
+padding: 5%;}
+
+p{color: seashell;}
+
+form{padding-inline: 200px; 
+padding-top: 100px;
+padding-bottom: 50px;
+color: seashell;}
+
+.separacion{width:100%; color: transparent;
+height: 60px;}
+
+.card-body{background-color: rgb(30, 211, 235);}
+
+.cajas{height: 40px;
+background-color: rgb(30, 211, 235);
+padding: 0%;
+margin: 0%;
+}
+
+
+#icon1{padding-left: 158px;;
+font-size: 3ch;
+padding-bottom: 50px;
+padding-top: 3px;
+color: seashell;}
+
+#icon2{padding-left: 158px;;
+font-size: 3ch;
+padding-bottom: 0px;
+padding-top: 3px;
+color: seashell;}
+
+#icon3{padding-left: 158px;;
+font-size: 3ch;
+padding-bottom: 0px;
+padding-top: 3px;
+color: seashell;}
+
+#cartas{margin-left: -100px; 
+ margin-right: -200px;
+padding-block: 100px;}
+
+#imgt{height: 211.5px;}
+#avion{width: 3.5ch;}
+#barra{background-color:transparent;
+position: fixed;
+left: 0px;
+top: 0;
+width: 100%;}
+#barra1{background-color: #1ed3eb}
+#cajadt{height: max-content;
+width: max-content;}
+
+a{color:seashell !important;}
+#footert{padding-left: 300px;
+font-size: 30px;}
+#barrafoot{padding-left:600px
+} 
+#boton1{font-size: 2rem; line-height: 1.5;}
+#boton2{font-size: 2rem;}
+#boton3{font-size: 2rem;}
+#boton4{font-size: 2rem;}
